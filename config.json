@@ -1,4 +1,4 @@
-nn{
+{
   "input": "./gallery",
   "output": "./build_output",
   "title": "MennerAusR Photo Gallery",
@@ -6,7 +6,7 @@ nn{
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "flow",
   "css": "./custom.css",
   "footer": "Footer Text",
   "usage-stats": false
