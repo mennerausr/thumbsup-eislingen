@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "MennerAusR Photo Gallery",
+  "title": "kleines Haus in Eislingen von Privat zu verkaufen",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": "Footer Text",
+  "footer": "Kontakt :: Carmen Ketterl und Hans-Jürgen May :: haus.in.eislingen@gmx.de",
   "usage-stats": false
 }
